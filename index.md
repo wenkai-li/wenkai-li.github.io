@@ -4,44 +4,28 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+Here is **Wenkai Li  黎文恺**.
 
-<br>
+- 
 
-## Academic Background
+  I am a 23 Fall master in [Carnegie Mellon University](https://www.cmu.edu/). My program is Master of Science in Intelligent Information Systems(MIIS) at [Language Technology Institution(LTI)](https://lti.cs.cmu.edu/). I want to explore more in the multimodal and natural language processing, and try to deploy some useful and intresting multimodal applications.
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+  I received my Bachelor's degree in Software Engineering from Northeastern University(China). I'm also very interested in Software development. During my undergraduate studies, I completed projects in distributed system and microservices system development. I hope to apply machine learning and deep learning models to real-world products. I currently seeking internship opportunities for 2024 summer.
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+  Education
+  ======
 
-<br>
+  ### 1. [Carnegie Mellon University(CMU)](https://www.cmu.edu/)
 
----
+  * **Master of Science in Intelligent Information Systems**																												           Sept. 2023 — May 2025
+  * **Core Counrse: Distributed System, Advanced Natrual Language Processing, Multimodal Machine Learning**
 
-## Research Interests
+  ### 2. [Northeastern University(China)](https://english.neu.edu.cn/) 
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
+  * **Bachelor Degree in Software Engineering** 																																				 Sept. 2019 — June 2023
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+  * **Core Course: Algorithm Analysis and Design, Discrete Mathematics, Data Mining Theories and Algorithm**
 
-<br>
-
----
-
-## News and Updates
-
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+    **Natural Language Processing, Software Development Programming Practice**
