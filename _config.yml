@@ -45,8 +45,8 @@ links:
   #   url: /hobbies/
   - title: Resume
     url: /file/Wenkai_Li_Resume.pdf
-  # - title: Resume
-  #   url: /file/Wenkai_Li_Resume.pdf
+  - title: Resume
+    url: /resume/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
