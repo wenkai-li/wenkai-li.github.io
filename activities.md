@@ -14,15 +14,13 @@ title: Activities
 
 * Organized several university conferences, designed meeting details, and contacted relevant speakers.
 
-<br>
-
 ### Association For Science and Technology
 
 ##### Vice Minister @NEU
 
 * Coordinated colleges of the university in organizing several intramural science and technology competitions.
 
-
+<br>
 
 ### Artistic Activities
 
