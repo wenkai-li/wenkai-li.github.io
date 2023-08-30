@@ -1,24 +1,25 @@
 ---
 layout: page
-permalink: /experience/index.html
+permalink: /activities/index.html
 title: Experience
-
 ---
 
 ### Research Experience
+
+<br>
 
 #### Text Style Transfer Student Researcher
 
 **Massachusetts Institute of Technology**
 
-* **Used Sequence Classification and SHAP for deletion, identifying and explaining style-related word distributions.**
-* **Deconstructed Bert’s Masked model for the generation component and trained it on the target text style.**
-* **Achieved the generation of target style vocabulary, replacing words that contributed to the original style.**
-* **Integrated spacy for POS tagging and glove for semantic similarity, with attention to ensure a balance between text style and semantic retaining. Achieved a 10% efficiency improvement over SOTA models.**
+* Used Sequence Classification and SHAP for deletion, identifying and explaining style-related word distributions.
+* Deconstructed Bert’s Masked model for the generation component and trained it on the target text style.
+* Achieved the generation of target style vocabulary, replacing words that contributed to the original style.
+* Integrated spacy for POS tagging and glove for semantic similarity, with attention to ensure a balance between text style and semantic retaining. Achieved a 10% efficiency improvement over SOTA models.
 
 
 
-
+<br>
 
 #### Multimodal Analysis Student Researcher
 
@@ -32,7 +33,7 @@ title: Experience
 
 
 
-
+<br>
 
 #### Generative Adversarial Network Student Researcher
 
@@ -44,7 +45,7 @@ title: Experience
 
 
 
-
+<br>
 
 ### Project Experience
 
