@@ -21,13 +21,10 @@ Education
 
 ### [Carnegie Mellon University(CMU)](https://www.cmu.edu/)
 
-* **Master of Science in Intelligent Information Systems**																												           Sept. 2023 — May 2025
+* **Master of Science in Intelligent Information Systems**
 * **Core Counrse: Distributed System, Advanced Natrual Language Processing, Multimodal Machine Learning**
 
 ### [Northeastern University(China)](https://english.neu.edu.cn/) 
 
-* **Bachelor Degree in Software Engineering** 																																				 Sept. 2019 — June 2023
-
-* **Core Course: Algorithm Analysis and Design, Discrete Mathematics, Data Mining Theories and Algorithm**
-
-  **Natural Language Processing, Software Development Programming Practice**
+* **Bachelor Degree in Software Engineering** 
+* **Core Course: Algorithm Analysis and Design, Discrete Mathematics, Data Mining Theories and Algorithm, Natural Language Processing, Software Development Programming Practice**
