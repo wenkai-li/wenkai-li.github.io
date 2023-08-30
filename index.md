@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+## About Me
 
 
 
@@ -16,8 +16,7 @@ I received my Bachelor's degree in Software Engineering from Northeastern Univer
 
 
 
-Education
-======
+## Education
 
 ### [Carnegie Mellon University(CMU)](https://www.cmu.edu/)
 
