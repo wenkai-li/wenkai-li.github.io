@@ -9,7 +9,7 @@ owner:
   name: Wenkai Li
   avatar: wenkai-li.jpg
   bio: 23FALL MIIS Student @CMU, Software Engineering @NEU. Seeking 2024 Summer MLE/SDE Internships
-  location: Pittsburgh, PA
+  location: "Pittsburgh, PA"
   email: wenkailileo@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
@@ -35,8 +35,8 @@ owner:
 links:
   - title: About Me
     url: /
-  # - title: Resume
-    # url: /file/CV-HanlinCAI.pdf
+  - title: Resume
+    url: /file/Wenkai_Li_Resume.pdf
   - title: Publications
     url: /publications/
   - title: Experience
@@ -45,8 +45,8 @@ links:
     url: /activities/
   - title: Hobbies
     url: /hobbies/
-  - title: Resume
-    url: /file/Wenkai_Li_Resume.pdf
+  # - title: Resume
+  #   url: /file/Wenkai_Li_Resume.pdf
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
