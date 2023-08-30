@@ -8,6 +8,11 @@ title: Resume
 
 #### Research Resume
 
-```text
-<iframe src="https://drive.google.com/file/d/1IQuY-xqKlOW60mPnx3mCDPAskedNma74/view?usp=drive_link" style="width:800px; height:500px;" frameborder="0"></iframe>
-```
+
+
+<embed id="pdfPlayer" src="/Users/leo/resume/3/wenkai-li.github.io/file/Wenkai_Li_Resume.pdf" type="application/pdf" width="100%" height="600" >
+
+
+
+
+
