@@ -14,15 +14,17 @@ I am a 23 Fall master in [Carnegie Mellon University](https://www.cmu.edu/). My 
 
 I received my Bachelor's degree in Software Engineering from Northeastern University(China). I'm also very interested in Software development. During my undergraduate studies, I completed projects in distributed system and microservices system development. I hope to apply machine learning and deep learning models to real-world products. I currently seeking internship opportunities for 2024 summer.
 
+
+
 Education
 ======
 
-### 1. [Carnegie Mellon University(CMU)](https://www.cmu.edu/)
+### [Carnegie Mellon University(CMU)](https://www.cmu.edu/)
 
 * **Master of Science in Intelligent Information Systems**																												           Sept. 2023 — May 2025
 * **Core Counrse: Distributed System, Advanced Natrual Language Processing, Multimodal Machine Learning**
 
-### 2. [Northeastern University(China)](https://english.neu.edu.cn/) 
+### [Northeastern University(China)](https://english.neu.edu.cn/) 
 
 * **Bachelor Degree in Software Engineering** 																																				 Sept. 2019 — June 2023
 
