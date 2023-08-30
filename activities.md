@@ -1,62 +1,42 @@
 ---
 layout: page
 permalink: /activities/index.html
-title: Experience
+title: Activities
 ---
 
-### Research Experience
-
-#### Text Style Transfer Student Researcher
-
-**Massachusetts Institute of Technology**
-
-* Used Sequence Classification and SHAP for deletion, identifying and explaining style-related word distributions.
-* Deconstructed Bert’s Masked model for the generation component and trained it on the target text style.
-* Achieved the generation of target style vocabulary, replacing words that contributed to the original style.
-* Integrated spacy for POS tagging and glove for semantic similarity, with attention to ensure a balance between text style and semantic retaining. Achieved a 10% efficiency improvement over SOTA models.
 
 
+### Student Association
+
+##### Minister of the Organization Department @NEU
+
+* Organized college-level basketball and volleyball matches.
+
+* Organized several university conferences, designed meeting details, and contacted relevant speakers.
 
 <br>
 
-#### Multimodal Analysis Student Researcher
+### Association For Science and Technology
 
-**Massachusetts Institute of Technology**
+##### Vice Minister @NEU
 
-* Developed an emotion extraction model by combining image emotion retrieval and text emotion retrieval.
-* Contained seven emotion labels and had 9% higher prediction accuracy especially on irony class.
-* Constructed image caption generation model with Resnet50 to extract image attributes.
-* Combined the image attributes, retrieved emotion information and original text comments with BERT.
-* Employed self-attention in the final layer to achieve weighted integration of image and text information.
+* Coordinated colleges of the university in organizing several intramural science and technology competitions.
 
 
 
-<br>
+### Artistic Activities
 
-#### Generative Adversarial Network Student Researcher
+##### College Hip-hop Club Minister @NEU
 
-**Carnegie Mellon University**
+* Organized and participated in the college's New Year's Eve hip-hop dance performance.
 
-* Implemented ViTGAN and SAGAN as solutions for face spoofing, achieving facial restoration in low-light conditions. Investigated the efficacy of attention mechanisms in capturing facial details.
-* Annotated a dataset distinguishing between dark and light settings, directing the discriminator to enhance the generator’s transition from dark to light facial generation.
-* Determined that ViTGAN’s self-attention layer outperformed SAGAN in capturing facial nuances, leading to superior restoration in darker environments.
+##### University Hip-hop Club Member @NEU
 
+* Participated in the NEU's New Year's Eve street dance performance.
 
+##### University Choir Club Member @NEU
 
-<br>
-
-### Project Experience
-
-#### Software Development Intern
-
-**Neusoft Corporation**
-
-* Built a full-featured B2B e-commerce platform. Enabled functions such as shopping cart, order management, product management, product information maintenance and cargo transportation management.
-* Utilized Vue for front-end, Redis for caching, and Elasticsearch for quick data retrieval.
-* Realized Pass-through communication between different hosts with NAT.
-* Used Springboot as the back end, SpringCloud to construct a distributed system with the interaction between subsystems, and SpringSecurity for declarative and secure access control.
-
-
+* Participated in the NEU's New Year's Eve choir performance.
 
 
 
