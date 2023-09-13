@@ -55,7 +55,7 @@ title: Experience
 * Built a full-featured B2B e-commerce platform. Enabled functions such as shopping cart, order management, product management, product information maintenance and cargo transportation management.
 * Utilized Vue for front-end, Redis for caching, and Elasticsearch for quick data retrieval.
 * Realized Pass-through communication between different hosts with NAT.
-* Used Springboot as the back end, SpringCloud to construct a distributed system with the interaction between subsystems, and SpringSecurity for declarative and secure access control.
+* Utilized Springboot as the back end, SpringCloud to construct a distributed system with the interaction between subsystems, and SpringSecurity for declarative and secure access control.
 
 #### Music Recommendation Platform Developer
 
