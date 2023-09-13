@@ -57,5 +57,17 @@ title: Experience
 * Realized Pass-through communication between different hosts with NAT.
 * Used Springboot as the back end, SpringCloud to construct a distributed system with the interaction between subsystems, and SpringSecurity for declarative and secure access control.
 
+#### Music Recommendation Platform Developer
+
+**Northeastern University**
+
+* Implemented machine learning and deep learning recommendation algorithms using Spark and Pytorch frameworks.
+* Developed admin and user systems using Spring Boot and VUE frameworks.
+* Utilized BERT models for learning music audio features and classifying music styles, addressing the cold start problem in music recommendations.
+* Optimized music similarity matrices by using TF-IDF algorithm and music tags, enhancing recommendation accuracy.
+* Generated user-rating-based collaborative filtering music similarity matrices using ALS algorithm and performed weighted blending.
+* Utilized MySQL as the user business database, and MongoDB as the recommendation database.
+* Achieved real-time dynamic recommendations based on user ratings through Kafka and Flume.
+
 
 
