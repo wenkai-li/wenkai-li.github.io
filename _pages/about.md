@@ -12,7 +12,7 @@ profile:
     <p>5000 Forbes AVE</p>
     <p>Pittsburgh, PA, 15213</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:

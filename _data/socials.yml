@@ -11,7 +11,7 @@
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: wenkai.kyle.li@gmail.com # your email address
-facebook_id: WenkailLi # your facebook id
+# facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: wenkai-li # your GitHub user name
 # gitlab_username: # your GitLab user name
@@ -24,7 +24,7 @@ github_username: wenkai-li # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: # your LinkedIn user name
+linkedin_username: wenkai-li # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -47,7 +47,7 @@ github_username: wenkai-li # your GitHub user name
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: # your X handle
+x_username: WenkailLi # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above
