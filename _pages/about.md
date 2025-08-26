@@ -6,12 +6,11 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: wenkai.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>5000 Forbes Av</p>
-    <p>PA 15213</p>
-    <p>Pittsburgh, Pennsylvania</p>
+    <p>5000 Forbes AVE</p>
+    <p>Pittsburgh, PA, 15213</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
