@@ -25,9 +25,7 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-<div style="border: 2px solid purple; padding: 15px; border-radius: 5px;">
 I am a MIIS master in <a href="https://www.lti.cs.cmu.edu/"><span style="color: rgb(199, 46, 237);">LTI</span></a> at Carnegie Mellon University, advise by Prof. <a href="https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html"><span style="color: rgb(199, 46, 237);">Mona Diab</span></a>, and also work with <a href="https://maartensap.com/"><span style="color: rgb(199, 46, 237);">Maarten Sap</span></a> and <a href="https://dpfried.github.io/"><span style="color: rgb(199, 46, 237);">Daniel Fried</span></a>. My research explores the LLM Reasoning, Social Responsible AI, Post-training, Agentic system, Latent Space Reasoning and AI-Human Interaction. I received my Bachelor's degree in Software Engineering from <a href="https://english.neu.edu.cn/"><span style="color:rgb(199, 46, 237);">Northeastern University(China)</span></a>. During my undergraduate, I was interested in Software development and completed projects in distributed system and microservices system development.
-</div>
 
 My research goal focuses on building reliable and deployable AI agents capable of operating robustly in real-world environments. I am particularly interested in enhancing LLMs’ social and causal reasoning abilities to better align their behavior with human expectations, ultimately making LLM-based agents more reliable, safe, interpretable, and socially accepted.
 
