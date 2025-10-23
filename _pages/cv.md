@@ -9,17 +9,18 @@ nav_order: 5
 <style>
   /* Remove top margin from container */
   .container.mt-5 {
-    margin-top: 0 !important;
-    padding: 0 !important;
+    margin-top: 20px !important;
+    padding: 0 20px !important;
     max-width: 100% !important;
   }
 
-  /* Make PDF container full width and height */
+  /* Make PDF container 2/3 width with white space on sides */
   .pdf-container {
-    width: 100vw;
-    height: calc(100vh - 60px); /* Subtract navbar height */
-    margin-left: calc(-50vw + 50%);
+    width: 66.67%; /* 2/3 of the width */
+    height: calc(100vh - 100px); /* Subtract navbar height and some padding */
+    margin: 0 auto; /* Center the container */
     position: relative;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* Optional: add subtle shadow */
   }
 </style>
 
