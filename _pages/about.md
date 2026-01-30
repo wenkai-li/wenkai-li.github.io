@@ -17,16 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a master studnet in <a href="https://www.lti.cs.cmu.edu/"><span style="color: rgb(199, 46, 237);">LTI</span></a> at Carnegie Mellon University, advise by Prof. <a href="https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html"><span style="color: rgb(199, 46, 237);">Mona Diab</span></a>, and work with Profs. <a href="https://maartensap.com/"><span style="color: rgb(199, 46, 237);">Maarten Sap</span></a>, <a href="https://dpfried.github.io/"><span style="color: rgb(199, 46, 237);">Daniel Fried</span></a> and <a href="https://mireshghallah.github.io/"><span style="color: rgb(199, 46, 237);">Niloofar Mireshghallah</span></a>. My research explores the AI safety, LLM Reasoning, Social Responsible AI, Interpretability, Agentic system and Human-AI Interaction. I received my Bachelor's degree in Software Engineering from <a href="https://english.neu.edu.cn/"><span style="color:rgb(199, 46, 237);">Northeastern University</span></a>. During my undergraduate, I was interested in Software development and completed projects in distributed system and microservices system development.
+
+I’m always enthusiastic about collaborating with researchers from diverse fields. If you’re interested in working together, please don’t hesitate to reach out to me.
+
+
+<h2 class="section-title">
+  <span class="section-title__icon"><i class="fas fa-flask"></i></span>
+  Research Interest
+</h2>
+
+**Social Learning:** Modeling social intelligence and social reasoning grounded in human cognition; understanding how computational models of human cognition differ from current AI systems, and how insights from human cognitive processes can more effectively guide AI systems toward deeper social reasoning.
+
+
+**AI Safety:** Measuring and mitigating unsafe behaviors in AI systems, with the goal of developing AI that is safe, controllable, and trustworthy, and aligned with human values, behaviors and safety needs.
+
+
+**Reasoning and continue learning:** Studying how social and causal reasoning abilities emerge through post-training and reinforcement learning, and exploring meta-abilities in reasoning via internal representations and model behavior.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 Join Fujitsu as a Research Scientist Intern!
 
-# 📝 Publications 
+<!-- # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,4 +69,4 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
