@@ -20,7 +20,7 @@ redirect_from:
 
 I am a master studnet in <a href="https://www.lti.cs.cmu.edu/"><span style="color: rgb(199, 46, 237);">LTI</span></a> at Carnegie Mellon University, advise by Prof. <a href="https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html"><span style="color: rgb(199, 46, 237);">Mona Diab</span></a>, and work with Profs. <a href="https://maartensap.com/"><span style="color: rgb(199, 46, 237);">Maarten Sap</span></a>, <a href="https://dpfried.github.io/"><span style="color: rgb(199, 46, 237);">Daniel Fried</span></a> and <a href="https://mireshghallah.github.io/"><span style="color: rgb(199, 46, 237);">Niloofar Mireshghallah</span></a>. My research explores the AI safety, LLM Reasoning, Social Responsible AI, Interpretability, Agentic system and Human-AI Interaction. I received my Bachelor's degree in Software Engineering from <a href="https://english.neu.edu.cn/"><span style="color:rgb(199, 46, 237);">Northeastern University</span></a>. During my undergraduate, I was interested in Software development and completed projects in distributed system and microservices system development.
 
-I’m always enthusiastic about collaborating with researchers from diverse fields. If you’re interested in working together, please don’t hesitate to reach out to me.
+**I’m always enthusiastic about collaborating with researchers from diverse fields. If you’re interested in working together, please don’t hesitate to reach out to me.**
 
 
 <h2 class="section-title">

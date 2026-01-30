@@ -16,9 +16,10 @@
   <div class="author__urls-wrapper">
     <!-- <button class="btn btn--inverse">More Info & Contact</button> -->
     <ul class="author__urls social-icons">
-      {% if site.description %}
-        <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
-      {% endif %}
+      {%- comment -%}
+      The site description is sometimes populated by theme defaults (e.g., "AcadHomepage: ...").
+      If you want a description for SEO but don't want it shown in the sidebar, keep this block disabled.
+      {%- endcomment -%}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
