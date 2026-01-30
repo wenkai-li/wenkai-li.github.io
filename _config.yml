@@ -9,7 +9,7 @@
 title                    : "Wenkai Li"
 # description              : "Just do what I love, and stay committed for the long run."
 repository               : "wenkai-li/wenkai-li.github.io"
-google_scholar_stats_use_cdn : true
+# google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wenkai Li"
   avatar           : "images/wenkai.jpg"
-  bio              : "Just do what I love, and stay committed for the long run."
+  # bio              : "Just do what I love, and stay committed for the long run."
   location         : "Pittsburgh, PA, USA"
   employer         :
   pubmed           : 
@@ -43,7 +43,7 @@ author:
   # instagram        :
   # impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   # lastfm           :
-  linkedin         : "https://www.linkedin.com/in/wenkai-li/"
+  linkedin         : "wenkai-li/"
   # dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   # orcid            : # e.g., "https://orcid.org/xxxx"
   # pinterest        :
@@ -51,7 +51,7 @@ author:
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   # steam            :
   # tumblr           :
-  twitter          : "https://x.com/WenkailLi"
+  twitter          : "WenkailLi"
   # vine             :
   # weibo            :
   # xing             :
