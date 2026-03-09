@@ -40,7 +40,7 @@ Before coming to CMU, I spent four years at Northeastern University studying Sof
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 Join Fujitsu as a Research Scientist Intern!
+- *2025.07*: &nbsp;Join Fujitsu as a Research Scientist!
 
 <!-- # 📝 Publications 
 
