@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 View or download my latest CV below.
 
 [Download CV (PDF)](/files/cv_wenkai_li.pdf)
