@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a master student in <a href="https://www.lti.cs.cmu.edu/"><span style="color: rgb(199, 46, 237);">LTI</span></a> at Carnegie Mellon University, advise by Prof. <a href="https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html"><span style="color: rgb(199, 46, 237);">Mona Diab</span></a>, and work with Profs. <a href="https://maartensap.com/"><span style="color: rgb(199, 46, 237);">Maarten Sap</span></a>, <a href="https://dpfried.github.io/"><span style="color: rgb(199, 46, 237);">Daniel Fried</span></a> and <a href="https://mireshghallah.github.io/"><span style="color: rgb(199, 46, 237);">Niloofar Mireshghallah</span></a>. My research explores the AI safety, LLM Reasoning, Social Responsible AI, Interpretability, Agentic system and Human-AI Interaction. 
+I am a master student in <a href="https://www.lti.cs.cmu.edu/"><span style="color: rgb(199, 46, 237);">LTI</span></a> at Carnegie Mellon University, advise by Prof. <a href="https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html"><span style="color: rgb(199, 46, 237);">Mona Diab</span></a>, and work with Profs. <a href="https://maartensap.com/"><span style="color: rgb(199, 46, 237);">Maarten Sap</span></a>, <a href="https://dpfried.github.io/"><span style="color: rgb(199, 46, 237);">Daniel Fried</span></a>. My research explores the AI safety, Reasoning, Social Responsible AI, Interpretability, and Humantic AI. 
 
 Before coming to CMU, I spent four years at Northeastern University studying Software Engineering. During my undergraduate studies, I completed projects in distributed systems and microservice development.
 
@@ -30,13 +30,12 @@ Before coming to CMU, I spent four years at Northeastern University studying Sof
   Research Interest
 </h2>
 
-**Social Learning:** Modeling social intelligence and social reasoning grounded in human cognition; understanding how computational models of human cognition differ from current AI systems, and how insights from human cognitive processes can more effectively guide AI systems toward deeper social reasoning.
+**AI Safety and Mechanistic Interpretability:** Evaluating and mitigating unsafe behaviors in AI systems through both behavioral and latent-space analysis. Investigating the internal representations that govern model behavior to make AI systems safer and more trustworthy, with the long-term goal of designing interpretability-grounded safety benchmarks. I am also currently preparing a related position paper.
 
+**Reasoning and Continual Learning:** Studying how social and causal reasoning abilities emerge through post-training and reinforcement learning, and uncovering the meta-abilities behind reasoning by probing the internal representations and reasoning trajectories that reinforcement learning amplifies or reshapes.
 
-**AI Safety:** Measuring and mitigating unsafe behaviors in AI systems, with the goal of developing AI that is safe, controllable, and trustworthy, and aligned with human values, behaviors and safety needs.
+**Human-Centered AI and Benchmarking:** Modeling reasoning grounded in human cognition, understanding how computational models of human cognition differ from current AI systems, identifying and mitigating gaps in existing benchmarks that fail to capture realistic human-grounded reasoning, and exploring how insights from human cognitive processes can guide AI systems toward deeper reasoning and better evaluation.
 
-
-**Reasoning and continue learning:** Studying how social and causal reasoning abilities emerge through post-training and reinforcement learning, and exploring meta-abilities in reasoning via internal representations and model behavior.
 
 
 # 🔥 News
