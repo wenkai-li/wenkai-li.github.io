@@ -18,56 +18,23 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a master student in <a href="https://www.lti.cs.cmu.edu/"><span style="color: rgb(199, 46, 237);">LTI</span></a> at Carnegie Mellon University, advise by Prof. <a href="https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html"><span style="color: rgb(199, 46, 237);">Mona Diab</span></a>, and work with Profs. <a href="https://maartensap.com/"><span style="color: rgb(199, 46, 237);">Maarten Sap</span></a>, <a href="https://dpfried.github.io/"><span style="color: rgb(199, 46, 237);">Daniel Fried</span></a>. My research explores the AI safety, Reasoning, Social Responsible AI, Interpretability, and Humantic AI. 
+I am a Research Scientist at Fujitsu Research of America. I received my M.S. from <a href="https://www.lti.cs.cmu.edu/"><span style="color: rgb(199, 46, 237);">LTI</span></a> at Carnegie Mellon University, where I was advised by Prof. <a href="https://www.lti.cs.cmu.edu/people/faculty/diab-mona.html"><span style="color: rgb(199, 46, 237);">Mona Diab</span></a>, Profs. <a href="https://maartensap.com/"><span style="color: rgb(199, 46, 237);">Maarten Sap</span></a> and <a href="https://dpfried.github.io/"><span style="color: rgb(199, 46, 237);">Daniel Fried</span></a>.
 
-Before coming to CMU, I spent four years at Northeastern University studying Software Engineering. During my undergraduate studies, I completed projects in distributed systems and microservice development.
+My research asks how increasingly autonomous AI systems can reason, learn, and remain reliable over long-horizon interaction. I work across agentic evaluation, post-training, AI safety, personalization, and model internals. A recurring theme in my work is to use external behavior as the primary evidence of what a system is doing, while using internal model signals when they help us understand where failures begin, which experience is worth learning from, or where intervention is most useful.
 
 **I’m always enthusiastic about collaborating with researchers from diverse fields. If you’re interested in working together, please don’t hesitate to reach out to me.**
-
 
 <h2 class="section-title">
   <span class="section-title__icon"><i class="fas fa-flask"></i></span>
   Research Interest
 </h2>
 
-**AI Safety and Mechanistic Interpretability:** Evaluating and mitigating unsafe behaviors in AI systems through both behavioral and latent-space analysis. Investigating the internal representations that govern model behavior to make AI systems safer and more trustworthy, with the long-term goal of designing interpretability-grounded safety benchmarks. I am also currently preparing a related position paper.
+**Agentic AI Safety and Evaluation:** I study how to evaluate AI systems once their behavior unfolds over long trajectories involving tools, memory, retrieval, other agents, and changing environments. I am interested in realistic evaluations that expose failures that may be delayed, contextual, or emerge from the interaction between a model and its surrounding system. I also study model-internal representations as complementary signals for locating failure onset, monitoring emerging misalignment, and selecting informative trajectories.
 
-**Reasoning and Continual Learning:** Studying how social and causal reasoning abilities emerge through post-training and reinforcement learning, and uncovering the meta-abilities behind reasoning by probing the internal representations and reasoning trajectories that reinforcement learning amplifies or reshapes.
+**Reasoning, Post-Training, and Self-Improving Agents:** I study how reasoning and exploration can be improved through process supervision, reward modeling, reinforcement learning, and trajectory-level credit assignment. One question that repeatedly comes up in my work is not simply whether a signal predicts success or failure, but where that signal should enter the learning loop. Longer term, I am interested in automated research systems that can form hypotheses, run experiments, learn from failed attempts, and gradually improve their own evaluation and training procedures.
 
-**Human-Centered AI and Benchmarking:** Modeling reasoning grounded in human cognition, understanding how computational models of human cognition differ from current AI systems, identifying and mitigating gaps in existing benchmarks that fail to capture realistic human-grounded reasoning, and exploring how insights from human cognitive processes can guide AI systems toward deeper reasoning and better evaluation.
-
+**Human-Centered AI, Personalization, and Privacy:** I view human-centered AI fundamentally as a problem of behavioral alignment. My work began with persona modeling and personalization, where the goal was to represent users faithfully and adapt model behavior to individual preferences. This naturally led me to broader alignment questions, including contextual privacy and other human-value problems where the right behavior depends not only on what information is available, but on who is involved, why the information is being used, and the surrounding context. More broadly, I am interested in how AI systems can remain responsive to individual users while respecting the values and constraints that should govern their behavior.
 
 
 # 🔥 News
-- *2025.07*: &nbsp;Join Fujitsu as a Research Scientist!
-
-<!-- # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+- *2025.07*: &nbsp;Joined Fujitsu Research of America as a Research Scientist!
